@@ -40,7 +40,7 @@ class SineWave:
         ax.set_xlabel("Radians", fontsize=14)
         ax.set_ylabel("Amplitude", fontsize=14)
 
-        # plt.savefig("Sine_Wave.png")
+        plt.savefig("Sine_Wave.png")
         plt.show()
 
 if __name__ == "__main__":
